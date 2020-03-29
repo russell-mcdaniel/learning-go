@@ -1,6 +1,10 @@
 # Learning Go
 
-A learning project for Go
+A learning project for Go.
+
+# To Run
+
+> go run main.go
 
 # Resources
 
